@@ -42,7 +42,7 @@ function determineConverter(e) {
       document.getElementById("output").innerHTML = inputTemp +
         "&deg; Celsius is " + moddedTemp + "&deg; Fahrenheit.";
       break;
-    }
+    } 
   }
 }
 
